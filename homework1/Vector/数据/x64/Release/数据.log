@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\AI\homework-main\homework1\Vector\数据\main.cpp(88,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\AI\homework-main\homework1\Vector\数据\main.cpp(268,33): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\AI\homework-main\homework1\Vector\数据\main.cpp(300,33): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\AI\homework-main\homework1\Vector\数据\main.cpp(331,33): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 209 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  数据.vcxproj -> D:\AI\homework-main\homework1\Vector\x64\Release\数据.exe

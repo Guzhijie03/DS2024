@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\mi\source\repos\Vector\数据\main.cpp(98,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\mi\source\repos\Vector\数据\main.cpp(173,34): error C2039: "get_real": 不是 "Complex" 的成员
+C:\Users\mi\source\repos\Vector\数据\main.cpp(9,7): message : 参见“Complex”的声明
+C:\Users\mi\source\repos\Vector\数据\main.cpp(173,49): error C2039: "get_real": 不是 "Complex" 的成员
+C:\Users\mi\source\repos\Vector\数据\main.cpp(9,7): message : 参见“Complex”的声明
+C:\Users\mi\source\repos\Vector\数据\main.cpp(173,64): error C2039: "get_imag": 不是 "Complex" 的成员
+C:\Users\mi\source\repos\Vector\数据\main.cpp(9,7): message : 参见“Complex”的声明
+C:\Users\mi\source\repos\Vector\数据\main.cpp(173,79): error C2039: "get_imag": 不是 "Complex" 的成员
+C:\Users\mi\source\repos\Vector\数据\main.cpp(9,7): message : 参见“Complex”的声明
+C:\Users\mi\source\repos\Vector\数据\main.cpp(274,53): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\mi\source\repos\Vector\数据\main.cpp(310,53): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\mi\source\repos\Vector\数据\main.cpp(345,53): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\mi\source\repos\Vector\数据\main.cpp(354,26): error C2374: “v2”: 重定义；多次初始化
+C:\Users\mi\source\repos\Vector\数据\main.cpp(264,26): message : 参见“v2”的声明
+C:\Users\mi\source\repos\Vector\数据\main.cpp(361,5): error C3861: “print_vector”: 找不到标识符
+C:\Users\mi\source\repos\Vector\数据\main.cpp(372,5): error C3861: “print_vector”: 找不到标识符
