@@ -1,0 +1,8 @@
+﻿  Vector.cpp
+C:\Users\MI\source\repos\exp1\exp1\Vector.cpp(37,2): error C2059: 语法错误:“常数”
+      C:\Users\MI\source\repos\exp1\exp1\Vector.cpp(37,2):
+      模板实例化上下文(最早的实例化上下文)为
+          C:\Users\MI\source\repos\exp1\exp1\Vector.cpp(4,29):
+          在编译类模板“Vector”时
+  
+C:\Users\MI\source\repos\exp1\exp1\Vector.cpp(37,28): error C2334: “{”的前面有意外标记；跳过明显的函数体
